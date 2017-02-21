@@ -1,7 +1,11 @@
 # Angular Simple
 
-My goal here was to create the most simple version of Angular possible 
+My goal here was to create the most simple version of Angular possible
 for the purpose of teaching how each of the pieces work.
+
+# Warning
+
+Code is being played around with; I make no guarantees.
 
 ## To Run This
 
