@@ -10,7 +10,7 @@ app.get('/', function (req: any, res: any) {
     res.send(`
         <html>
             <head>
-                <title>Simple</title>
+                <title>Something New</title>
             </head>
             <body>
                 <app-root>Loading...</app-root>
