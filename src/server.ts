@@ -13,7 +13,7 @@ app.get('/', function (req: any, res: any) {
                 <title>Something New</title>
             </head>
             <body>
-                <app-root>Loading...</app-root>
+                <app-root>Larping...</app-root>
                 <script src="/bundle.js"></script>
             </body>
         </html>
