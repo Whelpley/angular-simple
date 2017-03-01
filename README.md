@@ -5,7 +5,7 @@ for the purpose of teaching how each of the pieces work.
 
 # Warning
 
-Code is being played around with; I make no guarantees.
+Code is being monkeyed-around-with; I make no guarantees.
 
 ## To Run This
 
