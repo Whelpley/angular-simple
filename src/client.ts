@@ -18,7 +18,7 @@ import { NgModule, Component } from '@angular/core';
   `,
 })
 class AppComponent {
-  title = 'I have to power to change things!';
+  title = 'I have to power to change the world!';
 }
 
 
