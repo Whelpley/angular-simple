@@ -15,10 +15,14 @@ import { NgModule, Component } from '@angular/core';
       <h1>
           {{title}}
       </h1>
+      <h3>
+          {{subtitle}}
+      </h3>
   `,
 })
 class AppComponent {
   title = 'I have to power to change the world!';
+  subtitle = 'As long as that power involves coding'
 }
 
 
